@@ -18,5 +18,4 @@ function RightSection({ imageURL, productName, productDesription, learnMore }) {
     </div>
   );
 }
-
 export default RightSection;
